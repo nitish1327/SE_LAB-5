@@ -1,0 +1,15 @@
+************* Module corrected_inventory_system
+corrected_inventory_system.py:114:0: C0304: Final newline missing (missing-final-newline)
+corrected_inventory_system.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+corrected_inventory_system.py:8:0: C0116: Missing function or method docstring (missing-function-docstring)
+corrected_inventory_system.py:22:0: C0116: Missing function or method docstring (missing-function-docstring)
+corrected_inventory_system.py:41:0: C0116: Missing function or method docstring (missing-function-docstring)
+corrected_inventory_system.py:45:0: C0116: Missing function or method docstring (missing-function-docstring)
+corrected_inventory_system.py:60:0: C0116: Missing function or method docstring (missing-function-docstring)
+corrected_inventory_system.py:69:0: C0116: Missing function or method docstring (missing-function-docstring)
+corrected_inventory_system.py:79:0: C0116: Missing function or method docstring (missing-function-docstring)
+corrected_inventory_system.py:83:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+-----------------------------------
+Your code has been rated at 8.67/10
+
